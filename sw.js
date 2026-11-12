@@ -1,4 +1,4 @@
-const CACHE = 'servimant-v1';
+const CACHE = 'servimant-v2';
 const ASSETS = [
   './',
   './index.html',
